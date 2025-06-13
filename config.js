@@ -39,7 +39,7 @@ export const config = {
     backgroundColor: 'black',
 
     // color of the link button background in hex code.
-    linkButtonColor: '#d6d3d1', 
+    linkButtonColor: '#48a7a1', 
 
     // color of the search bar background in hex code.
     searchBarColor: '#d4d4d8', 
