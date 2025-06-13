@@ -36,7 +36,7 @@ export const config = {
     // All colors should be in HEX CODE ONLY.
 
     // background color in hex code.                               
-    backgroundColor: 'black',
+    backgroundImage: 'https://imagecdn.app/v1/images/https%3A%2F%2Fi.imgur.com%2FmTgHjNe.png?format=webp',
 
     // color of the link button background in hex code.
     linkButtonColor: '#48a7a1', 
